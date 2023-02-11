@@ -4,10 +4,11 @@
 
 Generador de nombre de personas y empresas echo con Javascript, Expressjs y Fakerjs.
 
-Requerimientos:
-
+**Requerimientos** 
+```
 $ npm install
 
 $ npm install --save-dev @faker-js/faker
 
 $ npm install express
+```
